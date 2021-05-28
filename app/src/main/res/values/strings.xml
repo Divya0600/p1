@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Club</string>
+    <string name="logo_name">Get connected</string>
+    <string name="slogan_name">Helps you to find your way</string>
+    <string name="powered_by">By SVECW </string>
+
+
+    // string on onboarding screen
+
+    <string name="first_slide_title">Search club</string>
+    <string name="second_slide_title">Events</string>
+    <string name="third_slide_title">Contact</string>
+    <string name="fourth_slide_title">Club details</string>
+
+    //Description
+
+    <string name="first_slide_desc">You can search for clubs</string>
+    <string name="second_slide_desc">Know about the Events</string>
+    <string name="third_slide_desc">Contact the Club </string>
+    <string name="fourth_slide_desc">Know details of all Clubs</string>
+
+    //Buttons
+
+    <string name="skip_button">Skip</string>
+    <string name="next_button">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <string name="enter_username">Enter Username</string>
+
+
+</resources>
+
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">224638057517-3rokkaveitf9nhjgdsp7nbt8c4gml6up.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">224638057517</string>
+    <string name="google_api_key" translatable="false">AIzaSyBzy_fMVCjvXRAMWmbCGjhoj6u4m4QyVOU</string>
+    <string name="google_app_id" translatable="false">1:224638057517:android:97d653213703e7c04c8ca4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzy_fMVCjvXRAMWmbCGjhoj6u4m4QyVOU</string>
+    <string name="google_storage_bucket" translatable="false">clubconnect-dc735.appspot.com</string>
+    <string name="project_id" translatable="false">clubconnect-dc735</string>
+</resources>

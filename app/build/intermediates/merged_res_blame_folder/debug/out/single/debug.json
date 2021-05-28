@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pwd_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pwd_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_full_name_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_slides_layout.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_phone_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\phone_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_full_name_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_email_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tinytan2.jpg.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable\\tinytan2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_full_name_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_email_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_full_name_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\full_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_keyboard_backspace_24.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_keyboard_backspace_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_skip_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\skip_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_circle_back.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\circle_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up2nd_class.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_sign_up2nd_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_email_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_full_name_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_email_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pwd_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pwd_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_next.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_email_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mail_custom_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable-v24\\mail_custom_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_next.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tinytan1.jpg.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable\\tinytan1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_close_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_user_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\user_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_keyboard_backspace_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_keyboard_backspace_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_keyboard_backspace_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_keyboard_backspace_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_close_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_full_name_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pwd_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pwd_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mobile_custom_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable-v24\\mobile_custom_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_phone_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pwd_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pwd_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_next.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pwd_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pwd_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pwd_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pwd_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_close_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\close_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_close_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_close_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_anim.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ly.jpg.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable\\ly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_circle_back.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\circle_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_new_password.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_set_new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_circle_back.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\circle_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_circle_back.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\circle_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_selection.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_make_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up3rd_class.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_sign_up3rd_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_next.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_update_new_password_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable-v24\\update_new_password_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_close_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password_success_message.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_forget_password_success_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pwd_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pwd_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_keyboard_backspace_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_keyboard_backspace_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_semibold.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\font\\muli_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_keyboard_backspace_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_keyboard_backspace_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_anim.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\anim\\top_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_keyboard_backspace_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_keyboard_backspace_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_start_up__screen.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_member_start_up__screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_full_name_icon.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\full_name_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_keyboard_backspace_24.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_keyboard_backspace_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_circle_back.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\circle_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_circle_back.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\circle_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_light_italic.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\font\\muli_light_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_forget_password_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable-v24\\forget_password_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_skip_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle_back.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\circle_back.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify_otp.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\layout\\activity_verify_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_black.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\font\\muli_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_password_updated_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable-v24\\password_updated_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable_v.jpg.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\drawable\\v.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_icon.png.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\build\\intermediates\\res\\merged\\debug\\font_kelly_slab.xml.flat",
+        "source": "C:\\Users\\sudhakar\\AndroidStudioProjects\\Club\\app\\src\\main\\res\\font\\kelly_slab.xml"
+    }
+]
